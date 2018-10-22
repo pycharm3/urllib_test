@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10622049-37fd-4d7d-ba9b-c8a60acb035c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/urllib_test$Testcast_interface.coverage" NAME="Testcast_interface Coverage Results" MODIFIED="1536806331589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/urllib_test$test_device_manage.coverage" NAME="test_device_manage Coverage Results" MODIFIED="1536650735355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/资料" />
+    <SUITE FILE_PATH="coverage/urllib_test$checkbox.coverage" NAME="checkbox Coverage Results" MODIFIED="1537845381637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/urllib_test$Smtp.coverage" NAME="Smtp Coverage Results" MODIFIED="1538204242122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SMTP" />
+    <SUITE FILE_PATH="coverage/urllib_test$00.coverage" NAME="00 Coverage Results" MODIFIED="1537950437246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/urllib_test$All_TestCase.coverage" NAME="All_TestCase Coverage Results" MODIFIED="1538206721891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/urllib_test$Unittests_in_TestCase_Operation_py.coverage" NAME="Unittests in TestCase_Operation.py Coverage Results" MODIFIED="1538128390033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/urllib_test$Unittests_for_checkbox_boxtest_test_search_in_python_org.coverage" NAME="Unittests for checkbox.boxtest.test_search_in_python_org Coverage Results" MODIFIED="1538115013170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/urllib_test$deflogin.coverage" NAME="deflogin Coverage Results" MODIFIED="1537930010766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/urllib_test$ImportDriver.coverage" NAME="ImportDriver Coverage Results" MODIFIED="1538115219770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Temporary" />
+    <SUITE FILE_PATH="coverage/urllib_test$Unittests_for_login_dunchongAC_test_search_in_python_org.coverage" NAME="Unittests for login.dunchongAC.test_search_in_python_org Coverage Results" MODIFIED="1537172890567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/urllib_test$Unittests_for_test_get_OperationCase_test_DelectAP.coverage" NAME="Unittests for test_get.OperationCase.test_DelectAP Coverage Results" MODIFIED="1539220717765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/urllib_test$login.coverage" NAME="login Coverage Results" MODIFIED="1538101670699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project" />
+    <SUITE FILE_PATH="coverage/urllib_test$DelectAP.coverage" NAME="DelectAP Coverage Results" MODIFIED="1537928238416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/urllib_test$case.coverage" NAME="case Coverage Results" MODIFIED="1536885864216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/urllib_test$Unittests_in_TestCase_Operation_management_py.coverage" NAME="Unittests in TestCase_Operation management.py Coverage Results" MODIFIED="1538014348773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/urllib_test$Unittests_for_Testcase_dunchongAC_test_search_in_python_org.coverage" NAME="Unittests for Testcase.dunchongAC.test_search_in_python_org Coverage Results" MODIFIED="1537237653049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/urllib_test$Unittests_for_TestCase_Operation_OperationCase_test_login.coverage" NAME="Unittests for TestCase_Operation.OperationCase.test_login Coverage Results" MODIFIED="1538015782650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/urllib_test$Trytest.coverage" NAME="Trytest Coverage Results" MODIFIED="1537523998326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/urllib_test$test_get.coverage" NAME="test_get Coverage Results" MODIFIED="1538019158110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/urllib_test$ADDproject.coverage" NAME="ADDproject Coverage Results" MODIFIED="1538122526097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/urllib_test$Unittests_for_checkbox_boxtest.coverage" NAME="Unittests for checkbox.boxtest Coverage Results" MODIFIED="1536910914967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/urllib_test$urllib_test.coverage" NAME="urllib_test Coverage Results" MODIFIED="1536997716062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/urllib_test$thread.coverage" NAME="thread Coverage Results" MODIFIED="1539073977293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Thread" />
+    <SUITE FILE_PATH="coverage/urllib_test$delAlarms.coverage" NAME="delAlarms Coverage Results" MODIFIED="1537837319085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/urllib_test$Newproject.coverage" NAME="Newproject Coverage Results" MODIFIED="1537171645589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/urllib_test$Unittests_in_checkbox_py.coverage" NAME="Unittests in checkbox.py Coverage Results" MODIFIED="1537166034341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/urllib_test$Unittests_in_Testcase_py.coverage" NAME="Unittests in Testcase.py Coverage Results" MODIFIED="1536806511395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>section</find>
+      <find>leancloud-visitors-count</find>
+      <find>canvas_nest: false</find>
+      <find>Menu Settings</find>
+      <find>canvas_nest:</find>
+      <find>rel=</find>
+      <find>maximum-scale=1</find>
+      <find>inclued</find>
+      <find>menu_icons</find>
+      <find>scoial</find>
+      <find>social</find>
+      <find>livere_uid</find>
+      <find>Introduction</find>
+      <find>index_generator</find>
+      <find>feed</find>
+      <find>leancloud</find>
+      <find>endif</find>
+      <find>power</find>
+      <find>copyright</find>
+      <find>foo</find>
+      <find>local_search</find>
+      <find>powerd</find>
+      <find>favicon</find>
+      <find>headband</find>
+      <find>rss</find>
+      <find>title</find>
+      <find>sitemap</find>
+      <find>scheme</find>
+      <find>render</find>
+      <find>visit</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>driver.find_element_by_xpath</replace>
+      <replace>A.driver</replace>
+      <replace>drivet</replace>
+      <replace>driver</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/urllib_test.py" />
+        <option value="D:/资料/test_device_manage.py" />
+        <option value="$PROJECT_DIR$/Testcast_interface.py" />
+        <option value="$PROJECT_DIR$/case.py" />
+        <option value="$PROJECT_DIR$/Newproject.py" />
+        <option value="$PROJECT_DIR$/login.py" />
+        <option value="$PROJECT_DIR$/Testcase.py" />
+        <option value="$PROJECT_DIR$/Trytest.html" />
+        <option value="$PROJECT_DIR$/delAlarms.py" />
+        <option value="$PROJECT_DIR$/Trytest.py" />
+        <option value="$PROJECT_DIR$/checkbox.py" />
+        <option value="$PROJECT_DIR$/ADDproject.py" />
+        <option value="$PROJECT_DIR$/project/deflogin.py" />
+        <option value="$PROJECT_DIR$/Template.html" />
+        <option value="$PROJECT_DIR$/Template/result.html" />
+        <option value="$PROJECT_DIR$/DelectAP.py" />
+        <option value="$PROJECT_DIR$/TestCase/00.html" />
+        <option value="$PROJECT_DIR$/TestCase/00.py" />
+        <option value="$PROJECT_DIR$/TestCase/TestCase_Operation management.py" />
+        <option value="$PROJECT_DIR$/TestCase/TestCase_Operation.html" />
+        <option value="$PROJECT_DIR$/project/login.py" />
+        <option value="$PROJECT_DIR$/TestCase/test_cat.py" />
+        <option value="$PROJECT_DIR$/TestCase/test_get.py" />
+        <option value="$PROJECT_DIR$/Temporary/ImportDriver.py" />
+        <option value="$PROJECT_DIR$/SMTP/LV.html" />
+        <option value="$PROJECT_DIR$/Method.py" />
+        <option value="$PROJECT_DIR$/SMTP/Newfile.py" />
+        <option value="$PROJECT_DIR$/SMTP/Smtp.py" />
+        <option value="$PROJECT_DIR$/TestCase/TestCase_Operation.py" />
+        <option value="$PROJECT_DIR$/TestCase/All_TestCase.py" />
+        <option value="$PROJECT_DIR$/Thread/thread.py" />
+        <option value="D:/Blog/blog/themes/next/languages/zh-Hans.yml" />
+        <option value="D:/Blog/blog/source/about/index.md" />
+        <option value="D:/Blog/blog/source/_posts/test1.md" />
+        <option value="D:/Blog/blog/themes/next/layout/_macro/my-copyright.swig" />
+        <option value="D:/Blog/blog/themes/next/source/css/_common/components/post/my-post-copyright.styl" />
+        <option value="D:/Blog/blog/themes/next/source/css/_common/components/post/post.styl" />
+        <option value="D:/Blog/blog/themes/next/layout/_partials/head.swig" />
+        <option value="D:/Blog/blog/source/_posts/人世纷纷，步履匆匆.md" />
+        <option value="D:/Blog/blog/themes/next/layout/_macro/sidebar.swig" />
+        <option value="D:/Blog/blog/source/_posts/2018-10-16_17.48.md" />
+        <option value="D:/Blog/blog/themes/next/layout/_macro/post.swig" />
+        <option value="D:/Blog/blog/source/_posts/2018-10-17.md" />
+        <option value="D:/Blog/blog/themes/next/source/css/_custom/custom.styl" />
+        <option value="D:/Blog/blog/themes/next/layout/_partials/footer.swig" />
+        <option value="D:/Blog/blog/themes/next/_config.yml" />
+        <option value="D:/Blog/blog/source/googlea7c98290569e20c4.html" />
+        <option value="D:/Blog/blog/themes/next/layout/_layout.swig" />
+        <option value="D:/Blog/blog/_config.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="68" />
+    <option name="y" value="144" />
+    <option name="width" value="1266" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="urllib_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="urllib_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="urllib_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="urllib_test" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="urllib_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="urllib_test" type="462c0819:PsiDirectoryNode" />
+              <item name="Temporary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="urllib_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="urllib_test" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="urllib_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="urllib_test" type="462c0819:PsiDirectoryNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Django_project" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="urllib_test" is-module-sdk="true" working-directory="$PROJECT_DIR$/TestCase">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="urllib_test" />
+        <option name="myWorkingDirectory" value="$PROJECT_DIR$/TestCase" />
+        <option name="myAddSourceRoots" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_get.OperationCase.test_DelectAP">
+    <configuration name="All_TestCase" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="urllib_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestCase/All_TestCase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Smtp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="urllib_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SMTP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SMTP/Smtp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="thread" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="urllib_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Thread" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Thread/thread.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unittests for test_get.OperationCase.test_DelectAP" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="urllib_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_get.OperationCase.test_DelectAP&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests in TestCase_Operation.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="urllib_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCase/TestCase_Operation.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Smtp" />
+      <item itemvalue="Python.All_TestCase" />
+      <item itemvalue="Python tests.Unittests in TestCase_Operation.py" />
+      <item itemvalue="Python.thread" />
+      <item itemvalue="Python tests.Unittests for test_get.OperationCase.test_DelectAP" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_get.OperationCase.test_DelectAP" />
+        <item itemvalue="Python.thread" />
+        <item itemvalue="Python.All_TestCase" />
+        <item itemvalue="Python.Smtp" />
+        <item itemvalue="Python tests.Unittests in TestCase_Operation.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10622049-37fd-4d7d-ba9b-c8a60acb035c" name="Default" comment="" />
+      <created>1535967650276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535967650276</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_TestCase_Operation_management_py - 2018.09.26 at 16h 00m 33s.xml">
+      <configuration name="Unittests in TestCase_Operation management.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestCase_Operation_management_py - 2018.09.26 at 16h 16m 09s.xml">
+      <configuration name="Unittests in TestCase_Operation management.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestCase_Operation_management_py - 2018.09.26 at 16h 18m 48s.xml">
+      <configuration name="Unittests in TestCase_Operation management.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestCase_Operation_management_py - 2018.09.27 at 10h 10m 06s.xml">
+      <configuration name="Unittests in TestCase_Operation management.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestCase_Operation_management_py - 2018.09.27 at 10h 13m 35s.xml">
+      <configuration name="Unittests in TestCase_Operation management.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_TestCase_Operation_OperationCase_test_login - 2018.09.27 at 10h 38m 10s.xml">
+      <configuration name="Unittests for TestCase_Operation.OperationCase.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_checkbox_boxtest_test_search_in_python_org - 2018.09.28 at 14h 10m 28s.xml">
+      <configuration name="Unittests for checkbox.boxtest.test_search_in_python_org" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestCase_Operation_py - 2018.09.28 at 17h 28m 38s.xml">
+      <configuration name="Unittests in TestCase_Operation.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestCase_Operation_py - 2018.09.28 at 17h 54m 08s.xml">
+      <configuration name="Unittests in TestCase_Operation.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_get_OperationCase_test_DelectAP - 2018.10.11 at 09h 19m 22s.xml">
+      <configuration name="Unittests for test_get.OperationCase.test_DelectAP" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="66" y="-8" width="1302" height="784" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.44444445" side_tool="true" weight="0.32771823" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2603369" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32930756" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5555556" weight="0.17457886" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24959743" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32924962" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="8" weight="0.32924962" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24959743" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16425121" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4257274" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32924962" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.44444445" side_tool="true" weight="0.32771823" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32930756" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5555556" weight="0.17457886" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32924962" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Testcase.py</url>
+          <line>243</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="71" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Template.html" />
+    <entry file="file://$PROJECT_DIR$/Template/result.html" />
+    <entry file="file://$PROJECT_DIR$/TestCase/00.html" />
+    <entry file="file://$PROJECT_DIR$/TestCase/filename" />
+    <entry file="file://$PROJECT_DIR$/TestCase/00.py" />
+    <entry file="file://$PROJECT_DIR$/TestCase/TestCase_Operation.html" />
+    <entry file="file://$PROJECT_DIR$/TestCase/TestCase_Operation management.py" />
+    <entry file="file://$PROJECT_DIR$/TestCase/test_cat.py" />
+    <entry file="file://$PROJECT_DIR$/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="604" lean-forward="true" selection-start-line="604" selection-end-line="604" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DelectAP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-576">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delAlarms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SMTP/LV.html" />
+    <entry file="file://$PROJECT_DIR$/Method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ADDproject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkbox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trytest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testcase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="265" lean-forward="true" selection-start-line="265" selection-end-line="265" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SMTP/Newfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/TestCase_Operation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urllib_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="53" selection-start-line="53" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SMTP/Smtp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread/thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Temporary/ImportDriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/deflogin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/All_TestCase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="50" column="44" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Blog/blog/themes/landscape/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/test_get.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Blog/blog/themes/next/source/css/_common/components/post/post.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="51" column="22" lean-forward="true" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Blog/blog/themes/next/layout/_macro/my-copyright.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Blog/blog/source/_posts/hello-world.md" />
+    <entry file="file://D:/Blog/blog/themes/next/source/css/_common/components/post/my-post-copyright.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Blog/blog/source/_posts/test1.md" />
+    <entry file="file://D:/Blog/blog/themes/next/source/css/_schemes/Pisces/index.styl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Blog/blog/themes/next/layout/_macro/post.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="213" column="21" lean-forward="true" selection-start-line="213" selection-start-column="21" selection-end-line="213" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Blog/blog/themes/next/layout/_macro/sidebar.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="137" column="172" selection-start-line="137" selection-start-column="172" selection-end-line="137" selection-end-column="172" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Blog/blog/source/_posts/2018-10-16_17.48.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Blog/blog/source/_posts/人世纷纷，步履匆匆.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Blog/blog/source/_posts/2018-10-17.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Blog/blog/themes/next/layout/_partials/head.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Blog/blog/themes/next/source/css/_custom/custom.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Blog/blog/source/googlea7c98290569e20c4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Blog/blog/themes/next/layout/_layout.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Blog/blog/source/about/index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Blog/blog/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="87" column="18" lean-forward="true" selection-start-line="87" selection-start-column="18" selection-end-line="87" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Blog/blog/themes/next/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="118" column="15" selection-start-line="118" selection-start-column="15" selection-end-line="118" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Blog/blog/themes/next/layout/post.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Blog/blog/themes/next/layout/_partials/footer.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="44" column="42" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Blog/blog/themes/next/languages/zh-Hans.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
